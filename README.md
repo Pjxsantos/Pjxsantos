@@ -1,6 +1,10 @@
+<div align=center>
 <h1>Olá, sou Paulo Jorge</h1>
 
 <p>Sou um web designer novato e crio web designs personalizados. Tenho habilidade em escrever códigos bem projetados, testáveis ​​e eficientes usando as melhores práticas atuais em desenvolvimento Web. Aprendo rápido, trabalho duro e trabalho em equipe, com proficiência na criação de páginas da web criativas e inovadoras.</p>
+
+<a href="https://pjxsantos.github.io/Portfolio/port/">
+<h3> Portfólio </h3></a></div>
 
 - 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando PHP React e TypeScript
