@@ -1,7 +1,17 @@
-<div align=center>
-<h1>Olá, meu nome é Paulo Jorge</h1>
 
-<p>Sou um web designer novato e crio web designs personalizados. Tenho habilidade em escrever códigos bem projetados, testáveis ​​e eficientes usando as melhores práticas atuais em desenvolvimento Web. Aprendo rápido, trabalho duro e trabalho em equipe, com proficiência na criação de páginas da web criativas e inovadoras.</p>
+![1606004646141](https://user-images.githubusercontent.com/108183568/236877254-0a25c439-a03e-4741-b608-9ee96fcd592f.jpg)
+
+# <p align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sou Paulo Jorge</p>
+
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Um+desenvolvedor+web+front-end)](https://git.io/typing-svg)
+  
+</div>
+
+<div align=center>
+
 
 <a href="https://pjxsantos.github.io/Portfolio/port/">
  Portfólio </a>
