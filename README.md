@@ -1,6 +1,4 @@
 
-![1606004646141](https://user-images.githubusercontent.com/108183568/236877254-0a25c439-a03e-4741-b608-9ee96fcd592f.jpg)
-
 # <p align="center">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sou Paulo Jorge</p>
 
 
