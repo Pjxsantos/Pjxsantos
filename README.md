@@ -36,9 +36,9 @@
   <br>
   <div align=center>
     
-  [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Pjxsantos&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Pjxsantos&show_icons=true&theme=transparent)](https://github.com/Pjxsantos)
 
-  [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjxsantos&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  [![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjxsantos&layout=donut&theme=transparent)](https://github.com/Pjxsantos)
 
   ![](https://komarev.com/ghpvc/?username=Pjxsantos&label=VISITAS+AO+PERFIL&color=25D366)
   
