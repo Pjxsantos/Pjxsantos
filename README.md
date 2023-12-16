@@ -11,7 +11,7 @@
 <div align=center>
 
 
-<a href="https://pjxsantos.github.io/Portfolio/port/">
+<a href="https://pjxsantos.github.io/">
  Portfólio </a>
 
 <h2>Não tenho nenhum talento especial, sou apenas apaixonadamente curioso 😉</h2>
