@@ -45,4 +45,4 @@
   </p>
 
 ![snake gif](https://github.com/Pjxsantos/Pjxsantos/blob/output/github-contribution-grid-snake.gif)
-![readme](https://github-readme-stats.vercel.app/api/pin?username=Pjxsantos&repo=REPO_NAME)
+![readme](https://github-readme-stats.vercel.app/api/pin?username=Pjxsantos&repo=Pjxsantos&theme=react)]
