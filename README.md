@@ -44,5 +44,5 @@
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="black">
   </p>
 
-![snake gif](https://github.com/Pjxsantos/Pjxsantos/blob/output/github-contribution-grid-snake.gif)
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=Pjxsantos&repo=Pjxsantos&theme=react)](https://github.com/Pjxsantos/Pjxsantos)
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg#gh-light-mode-only)
