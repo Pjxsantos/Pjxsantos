@@ -11,14 +11,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: Platane/Pjxsantos/svg-only@v3
+      - uses: Pjxsantos/Pjxsantos/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/only-svg/github-contribution-grid-snake.svg
             dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: Platane/snk@v3
+      - uses: Pjxsantos/Pjxsantos@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
