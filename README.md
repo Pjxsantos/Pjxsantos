@@ -13,6 +13,13 @@
 💬 Pergunte-me sobre **Node.js, React, Firebase... or anything [here](https://github.com/Pjxsantos/Pjxsantos/issues)**
 
  </div>
+ <div align="center">
+  <h2>Minhas contribuições</h2>
+  <br>
+  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
  
 <div align="center"> 
   <a href="mailto:pauloaminsantos@gmail.com">
@@ -42,10 +49,3 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>Minhas contribuições</h2>
-  <br>
-  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
