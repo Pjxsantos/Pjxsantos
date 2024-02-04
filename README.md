@@ -32,6 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
+    </br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,java,nextjs,mysql" /><br>
 </div>
 
@@ -39,7 +40,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
+  <h2>Minhas contribuições</h2>
   <br>
   <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg" />
   
