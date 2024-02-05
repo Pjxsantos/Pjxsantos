@@ -16,7 +16,13 @@
  <div align="center">
   <h2>Minhas contribuições</h2>
   <br>
-  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg" />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pjxsantos/Pjxsantos/output/github-contribution-grid-snake.svg">
+</picture>
+
   
   <br/>
 </div>
