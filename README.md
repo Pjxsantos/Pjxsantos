@@ -10,7 +10,7 @@
 
 <div align="center">
  
-💬 Pergunte-me sobre **Node.js, React, Firebase... or anything [here](https://github.com/Pjxsantos/Pjxsantos/issues)**
+💬 Pergunte-me sobre **Node.js, React, Firebase... Como criar sua snake [here](https://github.com/Pjxsantos/snake)**
 
  </div>
  <div align="center">
