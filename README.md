@@ -24,6 +24,7 @@
   
   <br/>
 </div>
+[![trophy](https://github-profile-trophy.vercel.app/?Pjxsantos=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 <div align="center"> 
   <a href="mailto:pauloaminsantos@gmail.com">
