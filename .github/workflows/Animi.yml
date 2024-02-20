@@ -1,0 +1,22 @@
+name: SVG Animation
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Convert text to SVG
+        run: npx svg-text-animate -f font.woff -t "Hello, world!" -o output.svg
+      - name: Animate SVG
+        run: npx svg-animations -i output.svg -o animation.svg
+      - name: Upload SVG
+        uses: actions/upload-artifact@v2
+        with:
+          name: animation
+          path: animation.svg
