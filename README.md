@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pjxsantos.pjxsantos" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+tudo+bem?+👋;+Sou+Paulo+J.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+tudo+bem?+👋;+Sou+Paulo+Xavier;" />
 </h1>
 
 <h3 align="center">Um apaixonado desenvolvedor de software do Brasil :octocat:🇧🇷</h3>
